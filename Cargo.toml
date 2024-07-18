@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = [
+    "velocity-cli",
+    "velocity-server",
+    "velocity-client/src-tauri"
+]
